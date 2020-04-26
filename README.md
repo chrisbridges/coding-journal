@@ -25,3 +25,7 @@ __4/22/20__
 * created file backup logging bucket - though not sure it’s necessarily configured properly
 * need to create an IAM role as I’ve been doing everything through root user
 * create bucket to try and host portfolio site on, moving from GitHub pages
+
+__4/26/20__
+* uploaded portfolio static assets to S3
+* setting up cloud front - just waiting for the certificates to go through - got one

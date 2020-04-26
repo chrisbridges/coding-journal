@@ -29,3 +29,4 @@ __4/22/20__
 __4/26/20__
 * uploaded portfolio static assets to S3
 * setting up cloud front - just waiting for the certificates to go through - got one
+* set up proper admin user with IAM
